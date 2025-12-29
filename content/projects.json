@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Local Volatility PDE Pricer",
+    "description": "Crank–Nicolson solver with spline-based surfaces and CSV export.",
+    "tags": ["C++", "Numerical PDEs", "Finance"],
+    "links": {
+      "github": "https://github.com/...",
+      "demo": ""
+    }
+  }
+]
